@@ -1,0 +1,49 @@
+
+body {
+    padding-top: 45px;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+
+#text_area {
+    text-align: center;
+    
+}
+
+textarea{
+    width: 50%;
+    height: 50px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 25px;
+    resize: none;
+}
+
+#btn {
+  background-color: #1158bd; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+
+#txt_btn {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#replay {
+    
+    background-color: rgb(124, 209, 215);
+}
